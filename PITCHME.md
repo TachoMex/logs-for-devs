@@ -237,3 +237,15 @@ Conclusión
 - Utiliza las severidades para lo que son
 
 ---
+
+¿Preguntas?
+
+---
+
+Contacto
+
+- https://www.linkedin.com/in/tachomex
+- https://github.com/TachoMex
+- gilberto@kueski.com
+
+---
