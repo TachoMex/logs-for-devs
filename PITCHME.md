@@ -20,6 +20,7 @@ Kueski
 - Interacciones 🤙
 - Medidas 🧐
 - Datos 🤓
+- Errores
 
 ---
 
@@ -49,7 +50,8 @@ Diagnóstico de errores
 
 - Regularmente se tienen 2 fotografias del problema:
   - Lo que había originalmente (la quincena 🤑)
-  - Lo que hay (la cartera vacía 😰)
+  - Lo que hay ahora (la cartera vacía 😰)
+  - ¿Qué paso entre estos 2 puntos?
 
 ---
 
@@ -61,10 +63,16 @@ Diagnóstico de errores
 
 ---
 
+Diagnóstico de errores
+
 - Logs
 - Revisión de todos los eventos
 - Recreación de los hechos
 - 🕵️
+
+---
+
+¿Para qué se usan los logs?
 
 ---
 
@@ -102,6 +110,27 @@ Métricas
 - Identificar patrones
 - Identificar problemas
 - Identificar cambios
+
+---
+
+Identificar patrones
+
+- Los jueves hay un incremento en los gasto de chela 🍻
+- Los costos de transporte y comida tienden a ser muy estables
+
+---
+
+Identificar problemas
+
+- El presupuesto de las chelas ya no alcanza 😱
+- Los gastos hormiga no son tan hormiga 🐜
+
+---
+
+Identificar cambios
+
+- Hubo un incremento en los gastos promedio en gansitos 🦢
+- El incremento en el pasaje me va a dejar sin chelas una vez a la semana 💔
 
 ---
 
